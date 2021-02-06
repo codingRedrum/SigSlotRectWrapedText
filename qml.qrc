@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyRectangle.qml</file>
+        <file>MyReceiver.qml</file>
+        <file>myRect3.qml</file>
+    </qresource>
+</RCC>
